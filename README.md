@@ -10,8 +10,9 @@ Data being analyzed:
 How the data is being analysed:
  - by cleaning the data to check if there is any missing values in the dataset as well as handling those missing data whether to delete the column or the row, or just leaving it be.
  - we also created the visualization extracting stories and creating assumptions based on that data
- link: https://github.com/MphoKunene/Capstone-Project-II-Data-Analysis/blob/main/automobile.ipynb
+ - link to how the data was analyzed: https://github.com/MphoKunene/Capstone-Project-II-Data-Analysis/blob/main/automobile.ipynb
 
 The main findings are:
   - The visualization showed that there was a lot of Toyota make than any other care with 32 models made while the least is a mercury make with only 1 model meaning it might just be last in the making.
   - people buy more cars between average risk and a lot riskier. While only a few buy cars that are less risky which is between -2 and -1
+  - link to findings: https://github.com/MphoKunene/Capstone-Project-II-Data-Analysis/blob/main/EDA.docx
