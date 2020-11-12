@@ -3,7 +3,9 @@
 The purpose of the project:
 Is to understand the basics of what data looks like and the kind of question our data might answer. We clean, analaze and explore our data.
 
-Data being analyzed is the automobile which is categorized in whether the car is a standard or a turbo.
+Data being analyzed:
+ - is the automobile which is categorized in whether the car is a standard or a turbo. 
+ - link of data: https://github.com/MphoKunene/Capstone-Project-II-Data-Analysis/blob/main/automobile.txt
 
 How the data is being analysed:
  - by cleaning the data to check if there is any missing values in the dataset as well as handling those missing data whether to delete the column or the row, or just leaving it be.
