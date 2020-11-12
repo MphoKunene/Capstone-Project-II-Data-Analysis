@@ -8,6 +8,7 @@ Data being analyzed is the automobile which is categorized in whether the car is
 How the data is being analysed:
  - by cleaning the data to check if there is any missing values in the dataset as well as handling those missing data whether to delete the column or the row, or just leaving it be.
  - we also created the visualization extracting stories and creating assumptions based on that data
+ link: https://github.com/MphoKunene/Capstone-Project-II-Data-Analysis/blob/main/automobile.ipynb
 
 The main findings are:
   - The visualization showed that there was a lot of Toyota make than any other care with 32 models made while the least is a mercury make with only 1 model meaning it might just be last in the making.
